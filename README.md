@@ -8,9 +8,9 @@ cmd> python "ascii.py" --file pathtofile.jpg --cols 200
 3. Provide the file path as shown above.
 4. You can use any number of cols play with it... (dont use 1000 or more it may hang your PC).
 5. there are more parameters u can use like
-    1. --out for output .txt file name.
+    1. --out for output .txt file name. (Default: out.txt)
     2. --morelevels for more precise and more ascii charecter **(NOT recommended)**.
-    3. --scale to chnage the scale or aspect ratio of image **(NOT recommended)**.
+    3. --scale to chnage the scale or aspect ratio of image **(NOT recommended)**. (Default: 0.43)
 6. here is an example...
 ```
 This is NOT recommended

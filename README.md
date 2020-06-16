@@ -19,6 +19,7 @@ This is NOT recommended
 cmd>python ascii.py --file C:\Users\pc\Desktop\me.png --cols 200 --morelevels --out art.txt --scale 0.43
 ```
 _**Screenshots:**_ 
+
 ![alt Screenshot](https://github.com/Ankith-Cirgir/ASCII_ART/blob/master/Screenshots/Car%20Ref.png "Screenshot1")
 ![alt ScreenShot](https://github.com/Ankith-Cirgir/ASCII_ART/blob/master/Screenshots/out.png "ScreenShot2")
 

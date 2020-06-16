@@ -1,10 +1,12 @@
 # ASCII_ART ♥
-```
-cmd>python ascii.py --file pathtofile.jpg --cols 200
-```
+
 ## Here are few steps to get ur ASCII pic:
 1. Download and extract the file from repo. 
 2. Open a cmd in the files location.
+3. Enter the command: `` pip install -r requirement.txt ``
+```
+cmd> python ascii.py --file pathtofile.jpg --cols 200
+```
 4. Provide the image file path as shown above.
 5. You can use any number of cols play with it... (dont use 1000 or more it may hang your PC).
 6. there are more parameters u can use like

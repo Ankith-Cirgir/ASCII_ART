@@ -11,8 +11,12 @@ cmd> python "ascii.py" --file pathtofile.jpg --cols 200
     1. --out for output .txt file name.
     2. --morelevels for more precise and more ascii charecter **(NOT recommended)**.
     3. --scale to chnage the scale or aspect ratio of image **(NOT recommended)**.
-
-_**Screenshots:**_
+6. here is an example...
+```
+This is NOT recommended
+cmd> python "ascii.py" --file C:\Users\pc\Desktop\me.png --cols 200 --morelevels --out art.txt --scale 0.43
+```
+_**Screenshots:**_ 
 
 
 ### __BY:__   ![alt ClumsyRat](https://github.com/Ankith-Cirgir/CollegeBruteForce/blob/master/clumsylogo.png "ClumsyRat")
